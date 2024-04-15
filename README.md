@@ -7,12 +7,7 @@
   
   ### NKYL
   ###### Sumin Lee
-  <span>
-  <a href="mailto:aadfranger@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-  </span>
-  <br><br><br>
+  <br><br>
 </div>
 
 <!-- 간단 이력 -->
@@ -70,6 +65,10 @@
   <img src="https://img.shields.io/badge/ Adobe%20Premier%20Pro-512BD4?&style=plastic&logo=adobepremierepro&logoColor=white"/>
   <img src="https://img.shields.io/badge/ Adobe%20After%20Effect-9999FF?style=plastic&logo=adobeaftereffects&logoColor=white"/> <br>
 
+  <br><br>
+  
+  ## Contact
+  📫 - aadfranger@gmail.com <br>
   <br><br>
 
   </div>
